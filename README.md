@@ -14,8 +14,6 @@ ESP32 drones are an excellent way to introduce Indian students to robotics, comb
 - **Optimize for Energy Efficiency**: Challenge students to reduce power consumption through flight path optimization, involving data analysis.  
 - **Explore Multi-Drone Coordination**: Synchronize multiple drones for coordinated flight, teaching swarm robotics (if resources allow).  
 
-These projects are designed to be cost-effective, with components like ESP32 boards costing under ₹1,000, ensuring accessibility for students in India.
-
 ---
 
 
